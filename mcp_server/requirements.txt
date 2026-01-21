@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+openai
+# sqlite3 входит в стандартную библиотеку Python, в requirements не требуется
+# Базовый пакет спецификации MCP (при необходимости можно обновить версию)
+mcp-spec
+# Новые зависимости для расширенного функционала
+ddgs
+requests
+deep-translator
+
+

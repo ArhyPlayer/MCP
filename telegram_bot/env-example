@@ -1,0 +1,22 @@
+# Telegram Bot API Token
+# Получить можно у @BotFather в Telegram
+TELEGRAM_API_TOKEN=your_telegram_bot_token_here
+
+# API ключ для доступа к OpenAI (обязательно!)
+# Если используется ProxyAPI, укажите ключ от прокси-сервиса
+OPENAI_API_KEY=your_actual_api_key_here
+
+# Base URL для ProxyAPI (опционально)
+# Если используется ProxyAPI, укажите URL:
+# OPENAI_BASE_URL=https://api.proxyapi.ru/openai/v1
+OPENAI_BASE_URL=
+
+# Модель OpenAI (по умолчанию gpt-4o-mini)
+# Стандартные модели OpenAI: gpt-4o-mini, gpt-3.5-turbo, gpt-4o, gpt-4-turbo
+# Для ProxyAPI могут быть доступны дополнительные модели
+# Проверьте документацию вашего ProxyAPI провайдера
+OPENAI_MODEL=gpt-4o-mini
+
+# MCP Server URL (опционально, по умолчанию http://127.0.0.1:8000)
+MCP_SERVER_URL=http://127.0.0.1:8000
+
