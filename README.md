@@ -1,4 +1,4 @@
-## product-mcp + Telegram Bot
+## Product-MCP + Telegram Bot
 
 Полный пример проекта, состоящего из MCP-сервера товаров и Telegram-бота, который использует OpenAI GPT-4o-mini и инструменты MCP.
 
